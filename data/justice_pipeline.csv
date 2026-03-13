@@ -1,0 +1,7 @@
+metric,value,unit,year,source
+Trial completion rate (max),12.38,percent,2017,CHRI-2024-P2 Table 9
+Trial backlog end of year,198285,cases,2022,NCRB-2022 Table 7A
+Trial backlog growth 2013-2022,97,percent,2022,Calculated from Table 7A
+Known offender,88.7,percent,2021,NCRB-2021 Table 5A.4
+Daily average cases,86.8,cases per day,2021,Calculated 31677/365
+Average conviction rate,27.6,percent,2013-2022,CHRI-2024-P2

@@ -1,0 +1,11 @@
+year,cases,confidence,notes
+2013,33707,HIGH,First year post Criminal Law Amendment Act
+2014,36735,HIGH,
+2015,34651,HIGH,
+2016,38947,HIGH,Peak year in dataset
+2017,32559,MEDIUM,NCRB methodology change year
+2018,33356,HIGH,
+2019,32033,HIGH,Last pre-COVID year
+2020,28046,HIGH,COVID lockdown reduced police access
+2021,31677,HIGH,
+2022,31516,HIGH,Dual-verified: CHRI + OGD JSON
