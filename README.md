@@ -1,10 +1,25 @@
 # India Rape Statistics: NCRB Dataset (2013–2022)
 
 Empirical dataset on rape case incidence, justice outcomes, and victim profile in India.
-Built from primary NCRB (National Crime Records Bureau) annual Crime in India (CII) reports.
-Every figure is tagged to its source table and cross-verified against the CHRI independent analysis (October 2024).
+Built from primary NCRB (National Crime Records Bureau) annual Crime in India (CII) 
+reports for 2013–2022. Every figure is tagged to its source table and cross-verified 
+against the Commonwealth Human Rights Initiative (CHRI) independent analysis 
+published in October 2024.
 
-**Research context:** Built as empirical groundwork for AI safety research on real-time physical threat detection and gender-based violence.
+The dataset covers the full justice pipeline from First Information Report (FIR) 
+through police chargesheet through trial to verdict, state-level incidence across 
+17 states, victim profile breakdowns by age and offender relationship, and a 
+19-city metro time series. It was built to support AI safety research on 
+demographic invariance in model safety responses — specifically, whether AI systems 
+give equivalent quality safety advice across the populations most affected by 
+gender-based violence in India.
+
+**Research context:** The data establishes the structural conditions within which 
+any AI-based safety intervention must operate. The trial completion rate in rape 
+cases never exceeded 13% in any year from 2013 to 2022. The pending trial backlog 
+grew 97%, reaching 198,285 cases by end of 2022. And 88.7% of reported rapes in 
+2021 were committed by someone known to the victim — a figure that directly shapes 
+the threat model underpinning the companion bias evaluation framework.
 
 ---
 
@@ -131,7 +146,7 @@ Full table-level references: see `docs/SOURCE_REGISTRY.md`
 ## Citation
 
 ```
-Raghuveeran, P. (2026). India Rape Statistics: NCRB Dataset 2013–2022.
+pretzelslab(2026). India Rape Statistics: NCRB Dataset 2013–2022.
 GitHub. https://github.com/YOUR-USERNAME/india-rape-statistics-ncrb
 
 Primary source: National Crime Records Bureau, Crime in India annual reports.
