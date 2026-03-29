@@ -137,6 +137,20 @@ GitHub. https://github.com/YOUR-USERNAME/india-rape-statistics-ncrb
 Primary source: National Crime Records Bureau, Crime in India annual reports.
 Cross-verification: Commonwealth Human Rights Initiative, October 2024.
 ```
+---
+
+## Related Research
+
+This dataset provides the domain grounding for a companion bias evaluation framework 
+testing demographic invariance in AI safety responses across GBV contexts.
+
+**[ai-bias-evaluation-framework](https://github.com/pretzelslab/ai-bias-evaluation-framework)**
+
+The known-perpetrator statistic (88.7% of reported rapes committed by someone known 
+to the victim) directly motivates the prompt design in that framework — three of the 
+four base prompts involve a known perpetrator, reflecting the actual distribution of 
+reported violence in India rather than the stranger-danger framing that dominates 
+Western safety AI research.
 
 ---
 
